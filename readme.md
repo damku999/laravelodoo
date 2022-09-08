@@ -1,13 +1,8 @@
 # LaravelOdoo
 
-<img src="https://raw.githubusercontent.com/AdaptIT/laravelodoo/master/docs/assets/laravelodoo.png">
-
 Odoo ERP API for Laravel. [Odoo website](https://www.odoo.com)
 
-[![Build Status](https://api.travis-ci.org/AdaptIT/laravelodoo.svg)](https://api.travis-ci.org/AdaptIT/laravelodoo)
-[![Total Downloads](https://poser.pugx.org/AdaptIT/laravelodoo/downloads)](https://packagist.org/packages/AdaptIT/laravelodoo)
-[![Latest Stable Version](https://poser.pugx.org/AdaptIT/laravelodoo/v/stable)](https://packagist.org/packages/AdaptIT/laravelodoo)
-[![License](https://poser.pugx.org/AdaptIT/laravelodoo/license)](https://packagist.org/packages/AdaptIT/laravelodoo)
+
 
 
 ## Installation
@@ -15,7 +10,7 @@ Odoo ERP API for Laravel. [Odoo website](https://www.odoo.com)
 type in console:
 
 ```shel
-composer require AdaptIT/laravelodoo
+composer require adapt-it/laravelodoo
 ```
 
 Register LaravelOdoo service by adding it to the providers array.
